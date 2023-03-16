@@ -1,14 +1,3 @@
-admin
-username = Ashu3112
-password = Ashu1234@
-
-username = shivam
-password = shivam123@
-
-
-deployed at - https://beautiful-chimera-30f64c.netlify.app/
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
